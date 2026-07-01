@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bibliographies>
+<BibliographiesCount>48</BibliographiesCount>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[爱的温度]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[沐沐]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[17-21]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[有人喜欢看日落,有人喜欢看日出.赵晓茜就喜欢看日出.这个日出,不是特意地爬到哪个风景名胜的山顶去看的那种日出,而是站在病房走廊的一头,从窗子里向外面远处眺望看到的日出. 每次在上夜班凌晨五点钟左右的时候,赵晓茜只要不忙便会抽出几分钟,站在病房东头的走廊上,看着窗外天边的太阳从地平线上升起的情景.天边先是那么一点点红晕,然后是大片的红,紧接着便是明艳的红.最后,太阳从云层中冲了出来,发出灿烂的光芒普照大地.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMTEaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[心内科低年资护士警觉意识的培训]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[张桂兰]]></FullName>
+<Organization> <![CDATA[赣南医学院第三附属医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[周莹]]></FullName>
+<Organization> <![CDATA[赣南医学院第三附属医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[22-23]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[心内科]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[护士]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[警觉意识]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[培训]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[目的 通过警觉意识的培训,提高心内科低年资护士病情观察及应急处置能力.方法 2013年9～11月,对低年资护士进行警觉意识培训,内容包括制定心内科护士警觉意识培训大纲,通过指导老师负责制、病例引导、护理问题小组讨论、个案累积、情景模拟训练等多种方式.与2013年6～8月未进行警觉意识培训比较考试成绩及医生对护士的满意度.结果 警觉意识培训后,低年资护士警觉意识增强,在病情观察、抢救配合等方面取得良好效果.考试成绩及医生对护士的满意度较培训前提高,差异有统计学意义(P＜0.01).结论 心内科护士警觉意识的培训能够快速提高护士预警能力及专科护理水平,使低年资护士能较快地胜任本职工作.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMTIaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[SBAR沟通模式在心内科护理晨交班中的应用]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[陈静]]></FullName>
+<Organization> <![CDATA[武汉亚洲心脏病医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[26-27]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[护理晨交班]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[SBAR交流模式]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[病情交流]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[目的 介绍一种新的病情交接班模式,并评价此交班模式在护理晨交班中的应用效果.方法 采用英国医疗行业内医护人员间关于标准化病情交流的SBAR模式,并将此制成简化表格,运用于护理晨交班中一级护理患者的病情交接,比较SBAR沟通模式实施前后护士报告的质量.结果 SBAR沟通模式实施后,护士对患者病情观察全面性较实施前提高,实施前后差异有显著的统计学意义(P＜0.01).结论 SBAR沟通模式是医护人员之间快速准确传递病情的一种方式,运用SBAR模式进行晨交班,内容精简且具有针对性,大大提高了接班者对有效信息的接收率,简化了交班流程,缩短了交班时间,值得推广.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMTQaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[规范化管理对尿毒症维持性血透患者焦虑及抑郁情绪的影响]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[肖士桂]]></FullName>
+<Organization> <![CDATA[江西省兴国县人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[郭德明]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[邱永杰]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[王华香]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[钟智华]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[28-29]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[尿毒症]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[血液透析]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[心理学]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[健康教育]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[规范化管理]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[目的 观察规范化管理模式对尿毒症维持性血液透析患者焦虑及抑郁情绪的影响,探讨适合患者的管理模式.方法 将本院登记在册的160例尿毒症维持性血液透析患者随机分为观察组和对照组各80例.对照组采用传统的管理模式,在入选后进行一次健康宣教,告知患者如有不适到专科医生处就诊.观察组采用规范化管理模式,除常规进行第一次健康教育外,配备专职护士根据维持性血透患者健康教育表单进行健康教育并对教育需掌握的内容进行效果评价,没有掌握的内容再进行针对性指导,并跟踪随访.采用多样化教育形式,为患者提供全面并具有针对性的健康教育和心理护理.采用焦虑自评量表(SAS)、抑郁自评量表(SDS)对两组进行心理测评,比较两组实施不同管理模式前后的焦虑及抑郁情绪状况.结果 两组在实施管理模式前SAS、SDS评分差异无统计学意义(P＞0.05),实施规范化管理模式后观察组SAS、SDS评分差值与对照组比较有统计学意义(P＜0.05).结论 对尿毒症维持性血透患者进行规范化管理,开展阶段性、全面而形式多样的健康教育可明显缓解患者的焦虑和抑郁情绪,利于患者积极正确面对疾病,保证透析的顺利进行,有效地提高长期生存率及生活质量.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMTUaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[医护走廊]]> </Title>
+</PrimaryTitle>
+<Authors>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[30-31]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMTYaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[百多邦软膏与氧气联合治疗压疮的护理]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[朱小英]]></FullName>
+<Organization> <![CDATA[湖北省鄂州市中心医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[32-33]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[百多邦软膏]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[氧疗]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[压疮]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[护理]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[总结了16例百多邦软膏与氧气联合治疗压疮的护理体会,主要护理措施有用生理盐水清洗创面后用氧气吹干,再用百多邦软膏涂敷在疮面上.认为百多邦软膏联合氧气治疗压疮效果显著,提高了压疮的治愈率,缩短了治疗时间,减少了患者的痛苦和经济费用,是一种操作简便的治疗方法.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMTcaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[各种留置管道的护理安全标识的应用护理体会]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[徐小丽]]></FullName>
+<Organization> <![CDATA[江西省萍乡市第二人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[朱红艳]]></FullName>
+<Organization> <![CDATA[江西省萍乡市第二人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[杨霞]]></FullName>
+<Organization> <![CDATA[江西省萍乡市第二人民医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[33-34]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[留置管道]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[护理安全]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[标识]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[应急预案]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[总结了应用各种留置管道的护理安全标识的护理体会.包括通过评估、建立导管标识并建立有效的导管滑脱登记报告制度,防止导管滑脱的应急预案,提高临床护理人员对导管护理安全的认识,快速识别各种管道,为患者提供高效、安全的护理措施,避免在导管使用和管理方面出现的护理差错、事故、纠纷.认为实施管道护理安全标识是保证患者医疗护理安全行之有效的方法,从而有效提高了护理质量.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMTgaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[多种形式与内容的教学查房在临床护理教学中的效果]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[叶洋鹰]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[夏玉兰]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[徐慧]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[35-36]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[护理教学]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[多种形式与内容]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[查房]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[效果]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[目的 讨论多种形式与内容的教学查房在护理教学中的作用.方法 以本院2013级20位护生为观察组,该组采取多种形式与内容的教学查房;另20位护生为对照组,采取传统方式的教学查房.对两组护生出科理论成绩、护生对教学工作的满意度进行分析评价.结果 观察组出科理论成绩高于对照组,护生对科室带教总体满意率以及护生对带教老师的教学质量满意率高于对照组(P＜0.05).结论 以多种形式与内容的教学查房可激发护生学习兴趣,提高教学效果及护生对教学的满意度,同时培养护生的评判性思维能力,达到提高教学质量的目的.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMTkaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[我不愿这般走近你]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[谢远芳]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[37]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[我是一名实习生,在一所县城的中医院实习,在实习的过程中,司空见惯的便是病室内冷凝的空气:护士们的严肃的表情,患者的哀吟声,一堆堆的冷眼,一阵阵的冷空气,笼罩着整个科室,让人不禁要打个哆嗦. 我是6月23日下的实习点,在实践的过程中,跟着老师一步步地学习,一步步地把理论转化成实践,一步步地巩固自己仅有的那一点临床知识.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjAaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[生命的重量]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[项丽丽]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[38]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[生命是什么?是那在冬天绽放的梅花,是那在墙隙中不屈向上、茁壮成长的小瓜苗,是医院里那一个个幼小婴儿的哭声. 我是一位母亲,也是一位迎接新生命、托起明天太阳的白衣工作者.我不敢说,我们可以测量生命的长度,但我们见证着生命的诞生、希望的开始.每天,病房里都上演着各种各样的故事,有体贴、有温情、有哀怨、也有冷漠……这些,无一不是围绕着新生命的到来而展开.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjEaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[天使的梦]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[刘云霞]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[39]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[又是一个大夜班,秋日的夜竟如此冷清,寂寥的大街上三三两两的车辆疾驰而过,路人也行色匆匆,没有人多加停留,全然没有了夏日的喧嚣热闹.护士小希骑着单车匆匆行驶在黑色的夜幕中,看见空旷的大街上只是寥寥的几个人,她的心里有些恐惧,不自觉地加快了骑车的速度.当远远地看见医院外围绚丽的霓虹灯时,她的心里莫名地放松下来,缓慢的驶进这个即将要工作十二个小时的地方.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjIaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[守护天使]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[吴公然]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[40]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[护士有一个非常美丽的名字,叫做白衣天使.她们纯洁、善良、富有爱心,是上帝派到人间来救死扶伤的使者.从没想过会有一个天使走进我的生活,并向携手一生的目标迈进. 她是长沙市一名普通的产科护士,几乎每天都有新生命经由她的双手来到人间.第一次看到她的那双手,我不禁想象有多少刚出生的婴儿曾躺在上面动着可爱的小手小脚,又有多少喜悦的啼哭从她手上传到幸福的婴儿父母耳中.她说,尽管工作辛苦,但每天面对一个个新生命诞生的喜悦,所有的疲惫都已烟消云散.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjMaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[你若盛开,蝴蝶自来]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[陈楠]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[41]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[普通消炎药的皮试时间为15～20分钟,卡介苗的皮试时间为48～72小时,那么一份爱情的皮试时间需要多久? 兰花花21岁大学毕业,与初恋男友约定各自打拼三年,当兰花花24岁的时候,男友就骑着白马来迎娶兰花花.所有的约定都是美好的,但当兰花花24岁那年的大年初一,同寝室的下铺发来新年的祝福,顺嘴说了一句,你那个初恋男友结婚了,去年的腊月二十,你知道吗?兰花花的心"咯噔"了一下,也就那么一下下,很快强装镇定地回:是吗?我们很久没联系了,替我祝福一下他吧!之后和下铺匆匆聊了几句就挂了电话.其实,早就有心理准备了的,所有的异地恋都熬不过时间,那个说会骑着白马来的"王子"结婚了,可惜新娘不是她.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjQaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[每一位母亲都是"超人"]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[黄建如]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[42]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[中午下班回家,就看到家门口蹲着个熟悉的身影,是母亲.旁边地上还放着两只鼓鼓囊囊的蛇皮袋、一篮子土鸡蛋和一坛子腌菜. "妈,您来怎么不提前说一声,我好去车站接您!"我责怪母亲.母亲笑呵呵地说:"我知道你们忙,就自己过来了." "这么多东西你是怎么带过来的呀?"母亲身材瘦小,我无法想象她是怎么拎着大包小包、坛坛罐罐挤上公交车,下了车又要走很长的路才来到我家的.母亲说:"我把两个蛇皮袋用根绳子拴起来,挂在肩上,一前一后,然后一手拎着竹篮,一手抱个坛子,慢慢走,累了就歇歇."]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjUaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[母亲的礼物]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[冯海霞]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[43-44]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[5月的夜晚最是清凉舒适的,照例在每晚的这个时间哄睡女儿,故事讲完女儿并没有如往日一样在我脸颊印上甜蜜的晚安吻,而是凑到耳边用细细嗡嗡的声音说:"妈妈,告诉你一个秘密哦,明天是母亲节,我给你准备了礼物呢.""真的吗?"我用夸张的语气和表情来演绎着我的惊喜:"是什么礼物?快告诉妈妈!""明天再告诉你,要给你一个惊喜."女儿很满意我的表现,咧着嘴露出丢失了两颗大门牙的黑洞:"妈妈,那你给奶奶准备的礼物是什么?"时间突然停滞,满室的温情暖意似乎瞬间凝固,给奶奶的礼物?是什么?]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjYaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[木渎行]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[陈建华]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[45]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[当秋天来临的时候,我就盼着能够来一场热热闹闹的旅行,和熟悉的同道一起出游,看秋景,看红枫.或许是命运的使然,阴错阳差地我还是错过了和大家一起出游的时机.眼看着到了深秋,一天天的凉了下来,不去看秋景、红枫,总觉得是个缺憾,于是,我决定去看红枫,依然一个人踏上了旅途. 我去了天平山,去看那里的红枫,又可以去逛逛心仪的古镇——木渎.一举二得!]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjcaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[走进西藏,实现夙愿]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[江萍]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[46]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[西藏,这个号称"离天堂最近的地方"一直是自己魂牵梦绕的圣地,却因敬畏而迟迟未见行动.一个天时地利人和的机缘让我有了这样的想法,仅仅十天时间后就出发了,足以可见勇气和心切. 一下飞机,清新透着凉意的空气让我的心率不由自主地快了起来,映入眼帘的是航站楼上那两个熟悉的字——汉、藏文的"拉萨".这就是拉萨,我终于来了!]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjgaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[幸福似远又近(小说连载之十一)]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[莫离兮]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[47-50]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[五十 虽然只是一场感冒,却纠缠着安小雅一直缠绵不去,愣是拖了个把多月才慢慢好转.这段日子她有些恹恹的,对什么都提不起兴致来,苏子墨以为是生病的原因,没怎么在意. 唐晓自从同简宁见了一面后,就整天忙忙碌碌的,也没再缠着安小雅问东问西.安小雅虽然对他们的见面经过有些好奇,可被自己的沉重心事一捣腾,这微薄的好奇也就不了了之了.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMjkaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[我们的青春模样(小说连载之八)]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[风沙]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[51-56]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[第八章 六十一 七夕过后,微信朋友圈里、QQ空间里,全是晒七夕礼物的,真俗!当然,咱也不能免俗.我把王子鸣送的那一大束玫瑰花贴在空间,不一会儿,李龙吉发信息问我:"谁送的?" "你管呢.反正只要不是你送的就好!"本是玩笑话,说出来却觉得不好笑,又觉得很不妥,想收回也来不及了,状态显示对方已接收. "是王子鸣吧?" "是."我不再开玩笑.有时候口无遮拦真的挺伤人心的.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMzAaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[旗袍,今生美丽的相遇]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[陈洪娟]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[57]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[一直以来,我对旗袍情有独钟.我以为,在众多的衣服款式中,旗袍有着别样的风情与魅力.那小巧的立领环绕着纤柔的细颈,凹凸有致的流畅线条紧贴着挺拔的身躯,开叉的下摆伴着轻盈的步履款款摇曳,纤纤玉腿若隐若现,说不出的妩媚,道不尽的风韵. 最初喜欢上旗袍,正是豆蔻年华的时候.每每看到与旧上海有关的电影,对影片中穿旗袍的女子总是目不转睛,带着近乎痴迷的眼神欣赏她们玲珑婀娜的风姿.周旋、蝴蝶、阮玲玉……这些女子无一不是风姿绰约、冷艳凝香.旗袍,用细腻的笔调勾勒出她们的玲珑曲线,而她们则用烟水凄迷的眼神,冷傲高贵的气质,将旗袍的风韵演绎得淋漓尽致.无论是举手投足,还是浅笑蹙眉,都散发出风情万种的妩媚,古曲温婉的气质,充盈着一种女人的张扬与内敛.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMzEaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[夜光]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[周丽]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[58-59]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[夜,县人民医院心神内科墙上的时钟不知疲倦地嘀哒、嘀哒,在这寂静的夜里显得格外清晰.窗外,黑夜像无边无际的瀑布倾泻下来,笼罩着喧嚣了一整天而终于安静的小县城.只有远处高楼里忽明忽暗地闪烁着几盏昏黄的灯光,诉说着夜的心事.医院三栋大楼围成的院子里路灯每夜都坚守着,照亮那泛白的水泥路面.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMzIaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[母亲的语言]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[木本]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[60]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[时序已是小暑,天气一天天的热起来了,随着空调、电风扇的登场,上呼吸道感染的病人逐渐增多,特别是儿科几乎天天爆满,以至于许多无法入院的患儿大量涌向门诊,这里俨然成了第二个儿科. 那天我的治疗班,大概是星期天专家门诊不上班的缘故,输液的人数较以往少了不少,下午我与同事在护士站闲聊.一位三十来岁的中年妇女左手拎着液体,右手牵着一个三四岁大小的男孩来输液.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMzMaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[因为爱自有天意]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[黎黎]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[60-61]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[星期二和主任一起在门诊坐诊,和往常一样,好几个慕名而来的患者来找主任开中药处方,治疗腰椎盘突出诱发的疼痛.主任也和往常一样,先看病人的CT或者核磁共振的检查,然后用正骨术给病人做腰椎手法复位,我喜欢把这个手法复位叫做"乾坤大挪移".然后给病人开好处方,交代煎药以及服药的注意事项,叮嘱记得来复查.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMzQaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[老了老了]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[沈丹琴]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[61]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[上周在医院看到一个93岁的坐着轮椅的瘦老太太,由另一个60多岁的胖老太太照料着在医院挂水.原来胖老太是瘦老太的保姆.瘦老太有三个女儿,一个在上海一个在苏州一个在吴江,留下瘦老太一人在镇上由保姆照顾.瘦老太虽然身体动弹不得,心却很明了,不停地询问盐水要挂多久,听到雨声,又不停地担心怎么回家.胖老太楼上楼下几趟跑下来,已是累得浑身是汗,手臂不停发抖,对瘦老太的碎碎念念也就不耐烦地应付着.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMzUaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[夕阳爱情]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[降珠草]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[61]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[这对老夫妇的死讯是在同一天听到的. 夫妇两个人住了几次院.有的时候是阿公一个人,有的时候一起住院.住院的时候,老太太可能是过于担心阿公,在医院有一点"无理取闹".在他身边的亲人、朋友、医生、护士,她都觉得是在害阿公.医生和很多护士也都只能一遍一遍地解释.最后阿公还是因为病情太重转到了重症监护室.最后听重症监护室的护士说那天努力地抢救了八次,最后,家属签字放弃抢救,阿公最后看了一眼阿婆后,离世……]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMzYaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[信息动态]]> </Title>
+</PrimaryTitle>
+<Authors>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[11]]></Issue>
+<PageScope><![CDATA[36,62]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTEwMzcaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[您不理解,我不怪您]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[李丽]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[1]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMDEaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[面对各种不理解,我这样做]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[张强]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[4-8]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[江苏省江阴市第二人民医院 张琴 终于08:00了,脱下工作服,取下燕尾帽,熬了一宿的我终于可以褪去浑身的疲惫,将自己重重地砸到床上,让身体的每一个器官都好好休息一下了.今天,是我二十九岁生日,站在青春的尾线上,回过头去看看,我才发现那些曾以为无法面对的困难,难以承受的苦难,在悄无声息的岁月长河里早已云淡风轻地飘走……真想对那些曾经讨厌自己、看不起自己的人说一声:"你不理解,我不怪你,愿你幸福安康!"]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMDIaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[以等级复核为契机常德市第一人民医院全面提升综合实力]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[文明]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[9-10]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[2015年5月,从湖南省卫生计生委传来佳音,常德市第一人民医院经医院评审委员会专家组评审,顺利通过国家三级甲等综合医院复核,并在湖南省医政工作会上做典型经验交流,受到了与会者的高度称赞. 2014年,常德市第一人民医院坚持以党的十八大精神为指导,积极参与公立医院综合改革,以等级复核为契机,扎实开展了"三好一满意"、"优质护理服务"、"门诊质量活动月"、争创省级文明单位等系列活动.医疗技术、服务品质、患者满意度不断提高,医院发展后劲不断增强,综合实力全面提升.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMDMaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[红烛颂]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[胡晓春]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[11-12]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[时光荏苒,转眼间,开往春天的列车缓缓驶过,载着我们来到了——夏天.这个季节到处铺满了绿色,生机盎然.让人充满了希望,遐想.我不禁想到了医院,救死扶伤,起死回生,给人生命的地方,那些救死扶伤的白衣天使,如水的护士,如江南丝竹,轻柔、婉约、温存.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMDQaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[宝贝别哭]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[金文]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[13]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA["小康乐,来吃一口,你要赶快好起来,然后健健康康,快快乐乐的长大."我悠悠的对着怀中的婴儿说着."快看他吃了一口,宝贝你总算知道吃了."护士长很兴奋的对着身边的姐妹们说着."真的吗,快让我看看.""太好了,我们的努力总算没有白费."大家都很兴奋你一言他一语的议论着,娟儿冲到我面前无比兴奋的对我说:"文,让我抱抱吗,""对吗,让我们也抱抱"大家好像都迫不及待了.我微笑着把怀中的孩子交给了娟儿,心里默默的想:小康乐啊,别怕,你爸妈放弃了你,可是我们不会放弃你,你没有妈妈,以后我们就是你的妈妈.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMDUaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[住院日记]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[杜芳]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[14-15]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[有句话说,没有时间休息的人,总会有时间生病.工作近二十年了,没有请过假,终于因为要做这个手术,不得不休息了.老公说结婚都没有休假,这次就当我们两个过二人世界吧.这次住院也学习了很多,感触也很多. 2015.8.11 今天是住院第一天,早上很早就出门了,一路上哈欠连天,晚上没睡好,真没觉得紧张.老公说他也没睡好,因为晚上我上厕所吵醒他了,其实是他紧张.没跟老妈说要手术的事,弟媳妇也在今天住院做剖宫产,老妈怎么能分过心来,与其让她担心着急还不如不让她知道,所以周六回家看她时告诉她我出差不在家,老妈心思单纯,她应该不会想别的.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMDYaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[火车奇遇]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[杨花玲]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[16]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[前阵子科里很缺人,加了很多的班,现在科里人员充足护士长就连着排了几天的休息有机会回家一趟. 回家其实很累,家里忙着赶货,几乎是天天早出晚归的干活,虽然我干不了多少,但看到家人那么辛苦,自己也就尽量多帮点忙.10天在家,感觉一转眼就过了,昨天坐火车回昆山,快到上海时车上发生了件特别的事情.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMDcaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[零距离的温暖]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[李端阳]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[17]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[一个20几岁的小伙子,由于精神发育迟滞,智商近乎于学前幼儿.整天蓬头垢面,衣衫不整;不是扒垃圾,毁东西,就是"嗷嗷"直叫,不停哭闹;让一家人闹腾得筋疲力尽,心力憔悴.不忍心将他丢弃,善良的父母每每提及这个傻儿,便禁不住擂胸顿足,泪水纵横.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMDgaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[学会感恩,生命将更精彩]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[陈丽燕]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[18]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[我们生活在感恩的世界里,感恩生命的伟大,感恩生活的美好;感恩父母的言传身教,感恩老师的谆谆教诲.工作中,我感恩患者们及家属对我们的理解和恩泽,点滴小事和温馨瞬间像一个个感人的微电影,在我的世界里放映.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMDkaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[破碎的假想]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[晓荷]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[19]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[不清楚女人为什么会从那么高的楼坠下来——七楼,那几乎是必死的高度,地面是坚硬的水泥,毫无缓和的余地. 女人并没有当场死亡,在坠楼的时候,很快就有人发现并送到了医院,只是伤的很重:重型颅脑损伤,多根肋骨骨折,左侧股骨颈骨折,左侧臀部严重撕脱伤,左侧肢体完全丧失知觉.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTAaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[中国"最帅男护士"常宇:男天使的白衣之恋]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[浣溪]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[20-21]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[身高1.80米,颜值爆表,多才多艺的90后文艺范帅哥误打误撞成为了一名护士,业内称为"中国最帅男护士".然而在世俗的眼光里,男人不去追求丰功伟业,给人擦身叠被,端屎端尿,成何体统?亲人摇头,路人摇头,整个世界都对他皱眉,他身心备受煎熬,一度决定转行.此时,同样身为护士的她携爱守候,爱情即天意,一个着白衣的男天使顶天而成……]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTEaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[从护士到久美神话的董事长:毛艺竣的故事]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[宋牛掰]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[22-24]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[30年前,她毕业于广州军医学校,成为一名穿着军装的白衣天使;三十午后的今天,她是中国首家女性私密保养连锁机构、上市企业久美神话医疗科技股份有限公司的领航人.每一个生命的成长,都有一个传奇的故事,身份的变化不是最重要的,重要的是这样一个外表看上去温和平静,有着一双温柔而坚定眼神的女性,在她的生命中发生了怎样的故事,沿着她成长的足迹,让我们发现一个不一样的精彩人生!]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTIaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[辽宁省鞍山市全面启动城市公立医院综合改革]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[胡松华]]></FullName>
+<Organization> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[24]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[辽宁省鞍山市继9月1日全面启动县级公立医院综合改革后,城市公立医院综合改革于10月1日全面启动.此次改革,鞍山市以实施药品零差价、破除以药补医为关键环节,同步推出三项改革措施:一是调整城市公立医院医疗服务价格,初步理顺医疗服务价格体系;二是城市公立医院门诊诊查费由医保统筹予以部分补助,以减轻患者看病负担;三是全市开展分级诊疗工作,引导患者合理就医.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTMaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[细节管理在提高护理质量中的应用]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[叶洋鹰]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[夏玉兰]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[候诗琴]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[25-26]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[细节管理]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[护理质量]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[护理安全]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[目的 探讨细节管理在提高护理质量中的作用,研究更好的护理管理方法.方法 2013年5月～2014年2月,在全院实施细节护理管理.回顾2012年7月～2013年4月护理质量管理作为对照(传统管理方法),比较实施细节管理前后护理质控结果、护理事件不良的发生率以及患者满意度等,评价细节管理在护理质量管理中的作用.结果 采用细节管理护理工作质量优于传统管理方法,两组差异均有统计学意义(P＜0.01或P＜0.05).结论 在护理管理中实施细节管理,能提高护理质量及患者的满意度,减少不良护理事件的发生,有效保障护理安全.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTQaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA["以家庭为中心的干预"对农村癌症患者癌因性疲乏的影响]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[刘润英]]></FullName>
+<Organization> <![CDATA[江西省丰城市皮肤病医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[26-29]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[农村癌症患者]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[癌因性疲乏]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[生活质量]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[家庭护理]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[目的 观察"以家庭为中心的干预"对农村癌症患者癌因性疲乏的影响.方法 将80例农村癌症患者随机分为观察组和对照组,两组都遵医嘱进行常规的治疗和护理干预,观察组在此基础上进行"以家庭为中心的干预"措施,比较两组癌因性疲乏状况、生存质量.结果 干预前两组疲乏程度比较,差异无统计学意义(P＞0.05);干预后,观察组疲乏程度明显低于对照组(P＜0.05),生存质量高于对照组(P＜0.05),差异有统计学意义.结论 "以家庭为中心的干预",通过对患者及家属进行健康教育,适度的活动及饮食调理,营造良好的家庭氛围,可以缓解或消除癌因性疲乏,从而提高癌症患者的生活质量.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTUaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[射频消融术治疗三叉神经痛的护理体会]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[夏玉兰]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[叶洋鹰]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[蔡美琴]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[徐慧]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[候诗琴]]></FullName>
+<Organization> <![CDATA[江西省上饶市第五人民医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[29-30]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[射频消融术]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[三叉神经痛]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[CT引导]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[护理]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[总结了58例在CT引导下经皮穿刺半月神经节射频消融治疗三叉神经痛的护理体会,主要包括术前、术中及术后护理工作总结,认为通过术前术后精心护理,可解决患者的思想负担,使其积极配合治疗,降低术后并发症的发生.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTYaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[个体化多模式镇痛在心胸外科围手术期护理中的应用]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[刘薇]]></FullName>
+<Organization> <![CDATA[湖北省荆门市第一人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[刘华]]></FullName>
+<Organization> <![CDATA[湖北省荆门市第一人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[潘慧]]></FullName>
+<Organization> <![CDATA[湖北省荆门市第一人民医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[30-33]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[个体化多模式镇痛]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[心胸外科]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[护理]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[目的 研究心胸外科患者围手术期实施个体化多模式镇痛护理的效果和可行性,为个体化多模式护理的全面开展提供理论依据.方法 采用非同期对照研究,将2013年9月～2014年1月本科室收治的30例肺叶切除术的患者设为观察组(执行个体化多模式镇痛护理),与2013年4月～2013年8月收治的30例肺叶切除术的对照组(执行传统镇痛护理)的效果进行比较,即对两组术后疼痛程度、睡眠质量、患者满意度进行评价,进而对两种护理效果进行评估.结果 通过检验分析,两组术后疼痛程度、睡眠质量、患者满意度差异均有统计学意义(P＜0.05),且执行个体化多模式镇痛护理的观察组均优于执行传统镇痛护理的对照组.结论 对心胸外科术后患者采取个体化多模式镇痛护理,能有效地缓解术后疼痛,减轻患者痛苦,改善睡眠质量,进而提高术后康复质量和患者满意度.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTcaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[序贯结肠透析治疗结合有效护理对慢性重型肝炎的疗效研究]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[彭云]]></FullName>
+<Organization> <![CDATA[江西省萍乡市第二人民医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[33-34]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[序贯结肠透析]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[重型肝炎]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[护理]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[目的 探讨序贯结肠透析治疗及针对性护理对慢性重型肝炎的效果.方法 将本院自2011年5月～2012年12月共32名住院患者随机分为两组,对照组按常规予以支持治疗,促进肝细胞再生,改善肝脏微循环,修复肝细胞膜,抑制病毒复制等综合治疗,治疗组同时加用河北翔锐医疗器械有限公司生产的JCJ-A2结肠透析治疗机进行序贯结肠透析治疗,隔日1次,1个月为1个疗程.比较两组疗效.结果 对照组有效率43.75％,治疗组有效率81.25％,两组比较差异有统计学意义(P＜0.05).结论 序贯结肠透析治疗慢性重型肝炎疗效显著,护士掌握专科业务知识和操作技能,有针对性的观察护理,是确保治疗安全有效的关键.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTgaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[PDCA循环结合PIO形式在糖尿病护理门诊随访管理的效果研究]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[蔡敏]]></FullName>
+<Organization> <![CDATA[南京鼓楼医院集团宿迁市人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[孙玉玲]]></FullName>
+<Organization> <![CDATA[南京鼓楼医院集团宿迁市人民医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[唐莉莉]]></FullName>
+<Organization> <![CDATA[南京鼓楼医院集团宿迁市人民医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[35-37]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[PDCA循环]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[PIO]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[糖尿病护理门诊]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[随访管理]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[目的 探讨PDCA循环结合PIO形式在糖尿病护理门诊患者随访中的效果.方法 选择门诊建档的2型糖尿病患者72例,采用随机数字表分组.实验组在常规随访同时采用PDCA循环结合PIO形式进行随访管理.对照组采取常规随访管理模式.结果 随访3个月、6个月、12个月,糖尿病知识掌握、自护行为、心理、生化指标比较,实验组明显优于对照组,差异均有统计学意义(P＜0.05).结论 PDCA循环结合PIO形式能明显提高门诊糖尿病患者自护行为,改善生活质量.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMTkaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[1例心内植入型电子装置囊袋感染及电极拔除术中护理配合]]> </Title>
+</PrimaryTitle>
+<Authors>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[张月]]></FullName>
+<Organization> <![CDATA[武汉亚洲心脏病医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[章晓蓉]]></FullName>
+<Organization> <![CDATA[武汉亚洲心脏病医院]]> </Organization>
+</Info>
+</Author>
+<Author>
+<Info Lang="chi">
+<FullName><![CDATA[王英]]></FullName>
+<Organization> <![CDATA[武汉亚洲心脏病医院]]> </Organization>
+</Info>
+</Author>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[37-39]]></PageScope>
+<Keywords>
+<Keyword Lang="chi"> <![CDATA[心内植入型电子装置]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[囊袋感染]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[电极拔除术]]> </Keyword>
+<Keyword Lang="chi"> <![CDATA[护理配合]]> </Keyword>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[近年来随着适应症的拓宽和适用人群的增加,心内植入型电子装置(cardiac implantable electronic device,CIED),包括起搏器、埋藏式心脏转复除颤器(ICD)和心脏再同步化治疗(cardiac resynchronization therapy,CRT)的植入数量持续增多,与此同时相关感染的发生率也随之升高.而感染是起搏器植入术后较为严重的并发症,其中CIED的术后感染的问题日益凸显.国外文献报道起搏器感染发生率为0.13％～ 19.90％[1,2],1990年～ 1999年CIED相关感染发生率增加了124％[3],国内报道的发生率为0.9％.]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMjAaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[中国大爱玫瑰工程——孕前保养必备圣品]]> </Title>
+</PrimaryTitle>
+<Authors>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[62]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> <![CDATA[这段时间大家都在热议"二胎",可说到生小孩,大家还是有点犯难.随着人们观念的改变,现在很多人要么不想生孩子要么就是不能生孩子,为何现在生孩子越来越难了呢?]]> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMzEaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+<Bibliography>
+<Type>JournalArticle</Type>
+<Language><![CDATA[chi]]></Language>
+<PrimaryTitle>
+<Title Lang="chi"> <![CDATA[信息动态]]> </Title>
+</PrimaryTitle>
+<Authors>
+</Authors>
+<Medium>
+<Media Lang="chi"> <![CDATA[当代护士（上旬刊）]]> </Media>
+</Medium>
+<Code><![CDATA[1006-6411]]></Code>
+<Year><![CDATA[2015]]></Year>
+<Issue><![CDATA[12]]></Issue>
+<PageScope><![CDATA[12]]></PageScope>
+<Keywords>
+</Keywords>
+<Abstracts>
+<Abstract Lang="chi"> </Abstract>
+</Abstracts>
+<Url><![CDATA[https://d.wanfangdata.com.cn/periodical/CiFQZXJpb2RpY2FsQ0hJU29scjlTMjAyNTEwMjEwOTUwNDYSDWRkaHMyMDE1MTIwMzIaCGd0N3Zkc2Y3]]></Url>
+</Bibliography>
+</Bibliographies>
